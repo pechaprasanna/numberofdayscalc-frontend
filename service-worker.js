@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/numberofdayscalc-frontend/precache-manifest.7aabeadb41dd893e0fe176231d3fabd5.js"
+  "/numberofdayscalc-frontend/precache-manifest.e9e7914cfa69243984e7454362807c89.js"
 );
 
 self.addEventListener('message', (event) => {

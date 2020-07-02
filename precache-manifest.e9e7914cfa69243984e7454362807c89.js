@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ef33d163ada7c065be1db6a49dc2458",
+    "revision": "a1f1ea926c097bbdeeaf30ae8dfa62a8",
     "url": "/numberofdayscalc-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/numberofdayscalc-frontend/static/css/2.96388320.chunk.css"
   },
   {
-    "revision": "d15d1619a4dba8c61201",
+    "revision": "2ad7b92ec6407b71d3cf",
     "url": "/numberofdayscalc-frontend/static/css/main.0a48c935.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/numberofdayscalc-frontend/static/js/2.fcc2e938.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d15d1619a4dba8c61201",
-    "url": "/numberofdayscalc-frontend/static/js/main.a6aa4c12.chunk.js"
+    "revision": "2ad7b92ec6407b71d3cf",
+    "url": "/numberofdayscalc-frontend/static/js/main.82de8c54.chunk.js"
   },
   {
     "revision": "7926293d9d1cae05ad44",
