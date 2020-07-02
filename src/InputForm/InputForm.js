@@ -32,7 +32,7 @@ class InputForm extends React.Component {
 		event.preventDefault();
 		if(event.target.value==='Calculate'){
 			this.props.onRouteChange('calculate');
-			fetch('http://localhost:3000/findNoOfDays',{
+			fetch('https://enigmatic-hollows-38229.herokuapp.com/findNoOfDays',{
 				method: 'post',
 				headers: {'Content-Type':'application/json'},
 				body: JSON.stringify({
